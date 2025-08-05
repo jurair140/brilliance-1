@@ -98,6 +98,9 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before, span[class^="flatic
 .flaticon-school:before {
     content: "\f119";
 }
+.flaticon-student:before {
+    content: "\120";
+}
 .flaticon-mortarboard-1:before {
     content: "\f11a";
 }
